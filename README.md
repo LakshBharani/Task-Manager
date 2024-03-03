@@ -3,7 +3,7 @@
 The Task Manager App is a simple application designed to help users organize and manage their tasks effectively.
 
 ## Features
-
+- **Splash Screen Implementation**: Used a expo managed project, made a custom splash screen to show eveyrtime the app cold starts.
 - **Task Creation**: Easily create new tasks with titles, descriptions, due dates, and priorities.
 - **Task Updation**: We can easily modify a task when needed.
 - **Task Deletion**: Keep track of the status of tasks, mark them as completed, or delete them when they're no longer needed.
@@ -15,7 +15,7 @@ The Task Manager App is a simple application designed to help users organize and
 https://github.com/LakshBharani/Task-Manager/assets/80910691/ebc2578a-1725-4588-b7b2-59914eaf2db2
 
 
-
+<img src="https://github.com/LakshBharani/Task-Manager/assets/80910691/c794ddec-9be3-44e0-9811-d6f110b05e54" width="200">
 <img src="https://github.com/LakshBharani/Task-Manager/assets/80910691/32049b3c-16c1-4305-a86f-9176c3382c67" width="200">
 <img src="https://github.com/LakshBharani/Task-Manager/assets/80910691/f45b7d9e-875a-47e2-88c2-9cbf113c7247" width="200">
 <img src="https://github.com/LakshBharani/Task-Manager/assets/80910691/f135192f-d99d-4c2d-8cfb-ab9b43b38935" width="200">
