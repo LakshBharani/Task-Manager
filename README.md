@@ -1,4 +1,4 @@
-# Task Manager App
+# Task Manager App - Made in React Native
 
 The Task Manager App is a simple application designed to help users organize and manage their tasks effectively.
 
